@@ -27,7 +27,7 @@ Project Nyctophobia is an immersive **psychological terror game** that delves de
 - **Phase 5:** Beta Testing & Public Release *(🎯 TBD)*
 
 ## 🛠️ Tech Stack
-- **Engine:** Godot 4.3 / 4.2
+- **Engine:** Godot 4.4
 - **Rendering Modes:** OpenGL 3.3 (dev), Vulkan (final polish)
 - **Languages:** GDScript
 - **Audio Engine:** Spatial 3D Sound, Binaural Processing
